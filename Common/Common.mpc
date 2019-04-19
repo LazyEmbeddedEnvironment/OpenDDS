@@ -1,3 +1,0 @@
-project : CPPBase, dcps {
-	dynamicflags += COMMONDLL
-}
